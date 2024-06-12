@@ -1,7 +1,6 @@
 {
-  "name": "SDK CAPS PAYMENT API",
+  "name": "romain-sida-cocolabs/agorapay-php-sdk",
   "description": "PHP SDK for CAPSPAYMENT API",
-  "minimum-stability": "stable",
   "require": {
     "php": ">=5.3",
     "ext-curl": "*",
